@@ -1,0 +1,549 @@
+(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I1
+sS'explanation'
+p3
+S'Serena Williams has won the 2016 Women\x92s Singles Wimbledon Championship by defeating Angelique Kerber in the final by 7\x965, 6\x963 in London, United Kingdom. With this win, Williams equaled Steffi Graf\x92s Open Era record of 22 major singles titles. '
+p4
+sS'question'
+p5
+S'Who has won the 2016 Women\x92s Singles Wimbledon Championship? '
+p6
+sS'answer'
+p7
+S'Serena Williams'
+p8
+sS'qno'
+p9
+I1
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Simona Halep'
+p13
+sS'C'
+p14
+S'Angelique Kerber'
+p15
+sS'B'
+p16
+S'Serena Williams'
+p17
+sS'D'
+p18
+S'Andy Murray'
+p19
+ssS'subject'
+p20
+I0
+sb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I1
+sS'explanation'
+p3
+S'Mohit Chillar was bought by Bengaluru Bulls for 55 lcs '
+p4
+sS'question'
+p5
+S'Who was the most expensive player at the pro kabbadi auctions 2016? '
+p6
+sS'answer'
+p7
+S'Mohit Chillar'
+p8
+sS'qno'
+p9
+I2
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Anup Kumar'
+p13
+sS'C'
+p14
+S'Mohit Chillar'
+p15
+sS'B'
+p16
+S'Sandeep Narwal'
+p17
+sS'D'
+p18
+S'Jang Kun Lee'
+p19
+ssS'subject'
+p20
+I0
+sb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I1
+sS'explanation'
+p3
+S'Arjun Atwal, an Indian golfer won the inaugural edition of the Dubai Open Golf Championship. '
+p4
+sS'question'
+p5
+S'In 2014 who won the inaugural edition of the Dubai Open Golf Championship? '
+p6
+sS'answer'
+p7
+S'Arjun Atwal'
+p8
+sS'qno'
+p9
+I3
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Arjun Atwal'
+p13
+sS'C'
+p14
+S'Simon Yates'
+p15
+sS'B'
+p16
+S'Wang Jeung-hun'
+p17
+sS'D'
+p18
+S'Shiv Kapur'
+p19
+ssS'subject'
+p20
+I0
+sb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I1
+sS'explanation'
+p3
+S'World number one, Andy Murray won the ATP world tennis championship in Abu Dhabi. '
+p4
+sS'question'
+p5
+S'Who won the 2014 ATP tennis Championship in Abu Dhabi?'
+p6
+sS'answer'
+p7
+S'Andy Murray'
+p8
+sS'qno'
+p9
+I4
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Rafael Nadal'
+p13
+sS'C'
+p14
+S'Novak Djokovic'
+p15
+sS'B'
+p16
+S'Andy Murray'
+p17
+sS'D'
+p18
+S'Roger Federer'
+p19
+ssS'subject'
+p20
+I0
+sb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I1
+sS'explanation'
+p3
+S'Sunil Chettri was crowned the AIFF play of the year for the third time in 2014. (2007, 2011, 2013, 2014) '
+p4
+sS'question'
+p5
+S'In 2014 who was the AIFF player of the year? '
+p6
+sS'answer'
+p7
+S'Sunil Chhetri'
+p8
+sS'qno'
+p9
+I5
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Sandesh Jigan'
+p13
+sS'C'
+p14
+S'Mandeep Singh'
+p15
+sS'B'
+p16
+S'Sunil Chhetri'
+p17
+sS'D'
+p18
+S'Sardar Singh'
+p19
+ssS'subject'
+p20
+I0
+sb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I2
+sS'explanation'
+p3
+S'The Krishna Wildlife Sanctuary (KWS) is located in Andhra Pradesh. It is in news because Lutrogale perspicillata (smooth-coated otter) has been sighted for the first time in the mangrove forest adjacent to the KWS in Krishna district. According to the International Union for Conservation of Nature (IUCN), conservation status of the Smooth-coasted Otter is at vulnerable list.'
+p4
+sS'question'
+p5
+S'The Krishna Wildlife Sanctuary (KWS) is located in which state?'
+p6
+sS'answer'
+p7
+S'Andhra Pradesh'
+p8
+sS'qno'
+p9
+I1
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Karnataka'
+p13
+sS'C'
+p14
+S'Kerala'
+p15
+sS'B'
+p16
+S'Andhra Pradesh'
+p17
+sS'D'
+p18
+S'Maharashtra'
+p19
+ssb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I2
+sS'explanation'
+p3
+S'The Government of India (GoI) has signed $650 million loan agreement with the World Bank (WB) for construction of the Eastern Dedicated Freight Corridor (EDFC)-III project. The EDFC-III will build the 401 km Ludhiana-Khurja section which goes through Punjab, Haryana and Uttar Pradesh. The purpose of the EDFC project is to augment railway freight carrying capacity along the Railway Corridor between Ludhiana and Kolkata. The EDFC is a freight-only rail line that will help faster and more efficient movement of raw materials and finished goods between the north and eastern parts of India.'
+p4
+sS'question'
+p5
+S'How much loan amount has been sanctioned by World Bank for construction of the Eastern Dedicated Freight Corridor (EDFC)-III project of India?'
+p6
+sS'answer'
+p7
+S'$650 million'
+p8
+sS'qno'
+p9
+I2
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'$700 million'
+p13
+sS'C'
+p14
+S'$450 million'
+p15
+sS'B'
+p16
+S'$550 million'
+p17
+sS'D'
+p18
+S'$650 million'
+p19
+ssb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I2
+sS'explanation'
+p3
+S'The book \x93Andhere se ujale ki aur\x94 has been authored by Finance Minister Arun Jaitley, which recently launched at the BJP headquarters in New Delhi. The book is a compilation of blogs and articles by Jaitley that have appeared at various times.'
+p4
+sS'question'
+p5
+S'The book \x93Andhere se ujale ki aur\x94 has been authored by which union minister of India?'
+p6
+sS'answer'
+p7
+S'Arun Jaitley'
+p8
+sS'qno'
+p9
+I3
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Ravi Shankar Prasad'
+p13
+sS'C'
+p14
+S'Arun Jaitley'
+p15
+sS'B'
+p16
+S'Uma Bharati'
+p17
+sS'D'
+p18
+S'Sushma Swaraj'
+p19
+ssb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I2
+sS'explanation'
+p3
+S'The Central Council of Homoeopathy (CCH) is a statutory apex body under the Ministry of Health & Family Welfare, Department of AYUSH. It is in news because the Central Bureau of Investigation (CBI) has recently arrested Dr. Ramjee Singh, the President of the CCH, and a private person on charges of accepting Rs.20 lakh in bribe to give a favourable inspection report for setting up of a homeopathy college. The headquarters of CCH is at New Delhi.'
+p4
+sS'question'
+p5
+S'Where is the headquarters of the Central Council of Homeopathy (CCH)'
+p6
+sS'answer'
+p7
+S'New Delhi'
+p8
+sS'qno'
+p9
+I4
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'pune'
+p13
+sS'C'
+p14
+S'New Delhi'
+p15
+sS'B'
+p16
+S'Lucknow'
+p17
+sS'D'
+p18
+S'Chennai'
+p19
+ssb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I2
+sS'explanation'
+p3
+S'The Almatti Dam is a hydroelectric project on the Krishna River at the Bagalkot district in North Karnataka. It is in news because the dam has been chosen for the World Bank\x92s Award of Excellence for best utilization of funds (Rs. 72 crore) for renovation to increase the strength of the dam.The project was taken up under the Dam Rehabilitation and Improvement Project (DRIP) for strengthening the reservoir, one of the largest reservoirs in Karnataka. The World Bank (WB) had granted Rs.72 crore to the Krishna Bhagya Jal Nigam Limited to prevent seepage which could damage the dam.'
+p4
+sS'question'
+p5
+S'Almatti Dam is located in which of the following states?'
+p6
+sS'answer'
+p7
+S'Karnataka'
+p8
+sS'qno'
+p9
+I5
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Andra Pradesh'
+p13
+sS'C'
+p14
+S'Karnataka'
+p15
+sS'B'
+p16
+S'kerala'
+p17
+sS'D'
+p18
+S'Maharashtra'
+p19
+ssb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I3
+sS'explanation'
+p3
+S' Modern area of Mesopotamian Civilization is Iraq.'
+p4
+sS'question'
+p5
+S'Rivers Tigris and Euphrates are associated with ?'
+p6
+sS'answer'
+p7
+S'Mesopotamian Civilization'
+p8
+sS'qno'
+p9
+I1
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Mesopotamian Civilization'
+p13
+sS'C'
+p14
+S'Harappan Civilization'
+p15
+sS'B'
+p16
+S'Egyptain Civilization'
+p17
+sS'D'
+p18
+S'Chinese Civilization'
+p19
+ssb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I3
+sS'explanation'
+p3
+S'Mesopotamian Civilization (4000 BC - 6th Cen. BC)\n\nEgyptain Civilization (3400 BC - 1000 BC)\n\nHarappan Civilization (2500 BC - 1750 BC)\n\nChinese Civilization (1765 BC - 250 BC) '
+p4
+sS'question'
+p5
+S'Which is considered as oldest civilization of the world ?'
+p6
+sS'answer'
+p7
+S'Mesopotamian Civilization'
+p8
+sS'qno'
+p9
+I2
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Mesopotamian Civilization'
+p13
+sS'C'
+p14
+S'Harappan Civilization'
+p15
+sS'B'
+p16
+S'Egyptain Civilization'
+p17
+sS'D'
+p18
+S'Chinese Civilization'
+p19
+ssb.(i__main__
+Questions
+p0
+(dp1
+S'category'
+p2
+I3
+sS'explanation'
+p3
+S'"Aeschylus" was the founder of Greek tragedy, he was author of "Promethus Bound".\n\n"Sophocles" is considered as the greatest Greek tragedians.\n\n"Philip" was the father of Alexander. '
+p4
+sS'question'
+p5
+S'Who is considered as the master of Greek comedy ?'
+p6
+sS'answer'
+p7
+S'Aristophanes'
+p8
+sS'qno'
+p9
+I3
+sS'options'
+p10
+(dp11
+S'A'
+p12
+S'Aeschylus'
+p13
+sS'C'
+p14
+S'Aristophanes'
+p15
+sS'B'
+p16
+S'Sophocles'
+p17
+sS'D'
+p18
+S'Philip'
+p19
+ssb.
